@@ -1,6 +1,6 @@
 # rotorctrl_esp
 rotorcontroller using esp controller
-Suitable for ESP controllers and AVR controllers.
+Suitable for ESP controllers and AVR controllers. Note: for AVT this is a replacement of repo 'rotorctrl'.
 See rotor_spec.h, where all the settings are.
 For AVR, remove the cpp files since for AVR controolers they cannot be compiled (which is tried although they are not used with AVR processor defined...)
 With ESP, you can control via USB or WiFi.
